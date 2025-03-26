@@ -1,0 +1,10 @@
+/Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/number_guessing/target/debug/deps/libppv_lite86-1a0e912e8d2ea773.rmeta: /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/lib.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/soft.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/types.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/generic.rs
+
+/Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/number_guessing/target/debug/deps/libppv_lite86-1a0e912e8d2ea773.rlib: /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/lib.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/soft.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/types.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/generic.rs
+
+/Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/number_guessing/target/debug/deps/ppv_lite86-1a0e912e8d2ea773.d: /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/lib.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/soft.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/types.rs /Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/generic.rs
+
+/Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/lib.rs:
+/Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/soft.rs:
+/Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/types.rs:
+/Users/jaimeirazabal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21/src/generic.rs:

@@ -1,0 +1,1 @@
+/Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/cli_tool/target/debug/cli_tool: /Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/cli_tool/main.rs

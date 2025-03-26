@@ -1,0 +1,1 @@
+/Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/basic_types/target/debug/basic_types: /Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/basic_types/main.rs

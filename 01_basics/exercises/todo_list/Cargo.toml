@@ -1,0 +1,10 @@
+[package]
+name = "todo_list"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "todo_list"
+path = "main.rs"

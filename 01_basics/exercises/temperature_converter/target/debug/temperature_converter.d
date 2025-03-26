@@ -1,0 +1,1 @@
+/Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/temperature_converter/target/debug/temperature_converter: /Users/jaimeirazabal/Documents/RUST_LEARNING/repository_basic_to_senior/01_basics/exercises/temperature_converter/main.rs
